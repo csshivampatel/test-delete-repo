@@ -1,0 +1,306 @@
+<?xml version="1.0"?>
+<ESBConfiguration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Version>90</Version>
+  <EnvironmentName>Adapter test Neuron</EnvironmentName>
+  <NeuronBuildVersion>3.8.0.1255</NeuronBuildVersion>
+  <DesignerBuildVersion>3.8.0.1255</DesignerBuildVersion>
+  <ApplicationName>Adapter_test_Neuron</ApplicationName>
+  <ApplicationId>ac684c9c-8b2c-4891-81c2-43d7b748c66c</ApplicationId>
+  <ZoneName>Enterprise</ZoneName>
+  <ChangeList>
+    <Additions />
+    <Revisions>
+      <string>Edit,Enterprise,Zone,Enterprise,TCP Transport Binding Property 'ListenBacklog'</string>
+      <string>Edit,Enterprise,topic,Topic1 Neuron</string>
+      <string>Edit,Enterprise,topic,Topic2 Neuron</string>
+    </Revisions>
+    <Deletions />
+    <LastModifiedBy />
+    <LastModifiedDate>2023-09-25T13:26:01.4047929Z</LastModifiedDate>
+    <Comments />
+  </ChangeList>
+  <NeuronEnvironmentVariables />
+  <ProcessFolders />
+  <InstanceName />
+  <Zones />
+  <Topics />
+  <Subscribers />
+  <Services />
+  <WorkflowDefinitions />
+  <WorkflowHosts />
+  <AvailabilityGroups />
+  <OAuthProviders />
+  <ESBMessagePipelines />
+  <Schemas>
+    <item>
+      <key>
+        <string>Schema1 Neuron</string>
+      </key>
+      <value>
+        <ESBSchema>
+          <Id>f1a91846-97c2-4006-bf8f-30b103cb23f8</Id>
+          <Version>62d73c32-e9a3-495d-a622-a1675a5926dc</Version>
+          <BusinessFlows />
+          <ProcessFlows />
+          <Description>gELLO</Description>
+          <Name>Schema1 Neuron</Name>
+          <Group>General</Group>
+          <IsSystemObject>false</IsSystemObject>
+          <IsPrivate>false</IsPrivate>
+          <ValidateWithService>false</ValidateWithService>
+          <Storing>false</Storing>
+          <ShortName>Schema1 Neuron</ShortName>
+          <FullName>http://tempuri.org/Schema1</FullName>
+          <Xsd />
+          <ServiceAddress />
+          <SchemaVersion>1.1</SchemaVersion>
+          <SourceUri>hELLO.GOOGLE.COM</SourceUri>
+          <TargetNamespace>nOTHING</TargetNamespace>
+        </ESBSchema>
+      </value>
+    </item>
+  </Schemas>
+  <JsonSchemas>
+    <item>
+      <key>
+        <string>JsonSchema1 Neuron</string>
+      </key>
+      <value>
+        <ESBJsonSchema>
+          <Id>e502e2fd-937e-4caf-8ef1-8a5d43930dfd</Id>
+          <Version>bc3e65e6-ee4a-437e-9089-d9261a800164</Version>
+          <BusinessFlows />
+          <ProcessFlows />
+          <Description />
+          <Name>JsonSchema1 Neuron</Name>
+          <Group>General</Group>
+          <IsSystemObject>false</IsSystemObject>
+          <IsPrivate>false</IsPrivate>
+          <Storing>false</Storing>
+          <ShortName>JsonSchema1 Neuron</ShortName>
+          <FullName>http://tempuri.org/JsonSchema1</FullName>
+          <Text />
+          <SchemaVersion />
+          <SourceUri />
+        </ESBJsonSchema>
+      </value>
+    </item>
+  </JsonSchemas>
+  <XmlDocs>
+    <item>
+      <key>
+        <string>XmlDoc1 neuron</string>
+      </key>
+      <value>
+        <ESBXmlDoc>
+          <Id>ee084cd5-e0ad-4851-ae28-0b558afab09f</Id>
+          <Version>45532ecd-b590-4e4c-9a9d-ed59d7deb3ac</Version>
+          <BusinessFlows />
+          <ProcessFlows />
+          <Description />
+          <Name>XmlDoc1 neuron</Name>
+          <Group>General</Group>
+          <IsSystemObject>false</IsSystemObject>
+          <IsPrivate>false</IsPrivate>
+          <Storing>false</Storing>
+          <XmlVersion />
+          <SourceUri />
+          <Xml />
+        </ESBXmlDoc>
+      </value>
+    </item>
+  </XmlDocs>
+  <TextDocs>
+    <item>
+      <key>
+        <string>TextDoc1 neuron</string>
+      </key>
+      <value>
+        <ESBTextDoc>
+          <Id>fe138541-3104-4d8a-b06c-0bf28a88f3f9</Id>
+          <Version>000d40ce-3fc6-4b52-81d4-0ff5398f262f</Version>
+          <BusinessFlows />
+          <ProcessFlows />
+          <Description />
+          <Name>TextDoc1 neuron</Name>
+          <Group>General</Group>
+          <IsSystemObject>false</IsSystemObject>
+          <IsPrivate>false</IsPrivate>
+          <Storing>false</Storing>
+          <TextVersion />
+          <SourceUri />
+          <Text />
+        </ESBTextDoc>
+      </value>
+    </item>
+  </TextDocs>
+  <JsonDocs>
+    <item>
+      <key>
+        <string>JsonDoc1 neuron</string>
+      </key>
+      <value>
+        <ESBJsonDoc>
+          <Id>ec99aa57-2b17-4812-8bd9-906ec249b7ea</Id>
+          <Version>b5efab12-b3a7-4af8-a63d-030c22b0de0f</Version>
+          <BusinessFlows />
+          <ProcessFlows />
+          <Description />
+          <Name>JsonDoc1 neuron</Name>
+          <Group>General</Group>
+          <IsSystemObject>false</IsSystemObject>
+          <IsPrivate>false</IsPrivate>
+          <Storing>false</Storing>
+          <JsonVersion />
+          <SourceUri />
+          <HttpMethods />
+          <JsonFormatString />
+          <Text />
+        </ESBJsonDoc>
+      </value>
+    </item>
+  </JsonDocs>
+  <SwaggerDocs>
+    <item>
+      <key>
+        <string>SwaggerDoc1 neuron</string>
+      </key>
+      <value>
+        <ESBSwaggerDoc>
+          <Id>0cad6001-f477-432c-af7c-768945e2e4ea</Id>
+          <Version>da46ae74-5773-42d6-a845-5fb93a45fdec</Version>
+          <BusinessFlows />
+          <ProcessFlows />
+          <Description />
+          <Name>SwaggerDoc1 neuron</Name>
+          <Group>General</Group>
+          <IsSystemObject>false</IsSystemObject>
+          <IsPrivate>false</IsPrivate>
+          <Storing>false</Storing>
+          <SwaggerVersion />
+          <SourceUri />
+          <Text />
+        </ESBSwaggerDoc>
+      </value>
+    </item>
+  </SwaggerDocs>
+  <WsdlDocuments>
+    <item>
+      <key>
+        <string>WsdlDoc1 neuron</string>
+      </key>
+      <value>
+        <ESBXmlDoc>
+          <Id>03acf2db-f613-4ceb-81e8-d09eb0b3d40a</Id>
+          <Version>81f9e13e-9a76-4fbc-9305-e3a7f2c95dbd</Version>
+          <BusinessFlows />
+          <ProcessFlows />
+          <Description />
+          <Name>WsdlDoc1 neuron</Name>
+          <Group>General</Group>
+          <IsSystemObject>false</IsSystemObject>
+          <IsPrivate>false</IsPrivate>
+          <Storing>false</Storing>
+          <XmlVersion />
+          <SourceUri />
+          <Xml />
+        </ESBXmlDoc>
+      </value>
+    </item>
+  </WsdlDocuments>
+  <Xslts>
+    <item>
+      <key>
+        <string>Xslt1 Neuron</string>
+      </key>
+      <value>
+        <ESBXslt>
+          <Id>9020ebdf-ef6a-4731-9bed-b535aac70e93</Id>
+          <Version>e4b30804-9f3b-4016-aa82-7fb537a9a243</Version>
+          <BusinessFlows />
+          <ProcessFlows />
+          <Description />
+          <Name>Xslt1 Neuron</Name>
+          <Group>General</Group>
+          <IsSystemObject>false</IsSystemObject>
+          <IsPrivate>false</IsPrivate>
+          <Storing>false</Storing>
+          <Xslt />
+          <TestInput />
+          <TestOutput />
+        </ESBXslt>
+      </value>
+    </item>
+  </Xslts>
+  <DataMappers>
+    <item>
+      <key>
+        <string>DataMapper1</string>
+      </key>
+      <value>
+        <ESBDataMapper>
+          <Id>e85a3391-d79a-4835-9cb6-5b6b07dad410</Id>
+          <Version>564a8d7b-0a1a-45e8-8e63-7bd1ae6f7f3e</Version>
+          <BusinessFlows />
+          <ProcessFlows />
+          <Description />
+          <Name>DataMapper1</Name>
+          <Group>General</Group>
+          <IsSystemObject>false</IsSystemObject>
+          <IsPrivate>false</IsPrivate>
+          <Storing>false</Storing>
+          <SourceType>None</SourceType>
+          <TargetType>None</TargetType>
+          <Text />
+          <AdmFile />
+          <GZFile />
+        </ESBDataMapper>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>DataMapper2</string>
+      </key>
+      <value>
+        <ESBDataMapper>
+          <Id>3414528b-0c0d-4b6f-a458-bceeb62a9648</Id>
+          <Version>efbefcff-973a-49b2-82b0-dc0dcf7ec200</Version>
+          <BusinessFlows />
+          <ProcessFlows />
+          <Description />
+          <Name>DataMapper2</Name>
+          <Group>General</Group>
+          <IsSystemObject>false</IsSystemObject>
+          <IsPrivate>false</IsPrivate>
+          <Storing>false</Storing>
+          <SourceType>None</SourceType>
+          <TargetType>None</TargetType>
+          <Text />
+          <AdmFile />
+          <GZFile />
+        </ESBDataMapper>
+      </value>
+    </item>
+  </DataMappers>
+  <BusinessEvents />
+  <Deployments />
+  <MessagePatterns />
+  <Bridges />
+  <Databases />
+  <Keys />
+  <Workflows />
+  <Applications />
+  <BusinessFlows />
+  <ProcessFlows />
+  <Bindings />
+  <ServiceRoutingTables />
+  <Behaviors />
+  <Adapters />
+  <Credentials />
+  <ServicePolicies />
+  <AdapterPolicies />
+  <Endpoints />
+  <AccessControlLists />
+  <Administrators />
+  <IsEncrypted>false</IsEncrypted>
+</ESBConfiguration>
